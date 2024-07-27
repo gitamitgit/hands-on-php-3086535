@@ -13,7 +13,7 @@
 			?>
 			<form name="submit_number" method="POST">
 				<div>
-					<label for="name">Submit a Positive Integer:</label>
+					<label for="name">Submit a Positive integer:</label>
 					<input type="text" name="number" />
 				</div>
 				<div><input type="submit" name="submit" value="Submit Number" /></div>
